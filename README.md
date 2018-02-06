@@ -1,7 +1,7 @@
 # [ionicwebdb](https://github.com/rhildred/ionicwebdb)
 websql with ionic
 
-This was started using [these instructions](https://ionicframework.com/docs/v1/getting-started/).
+This was started using <a href="https://ionicframework.com/docs/v1/getting-started/" target="_blank">these instructions.</a>
 
 It can be tested using ripple-emulator.
 
