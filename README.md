@@ -1,4 +1,4 @@
-# ionicwebdb
+# [ionicwebdb](https://github.com/rhildred/ionicwebdb)
 websql with ionic
 
 This was started using [these instructions](https://ionicframework.com/docs/v1/getting-started/).
